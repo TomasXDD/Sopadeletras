@@ -1,0 +1,32 @@
+{
+  "title": "Sopa De Letras",
+  "author": "Tomas Velasquez",
+  "date": "12/08/20",
+  "description": {
+    "es": "Esta Es Una Sopa De Letras Sobre Roblox\r\n"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "sopa_de_letras.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 5,
+  "totalSize": 59994,
+  "files": [
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "sopa_de_letras.jclic",
+    "sopa_de_letras.jclic.js"
+  ]
+}
